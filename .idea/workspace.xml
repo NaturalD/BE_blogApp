@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="792eef59-3c6f-4dfd-8e13-aa7d4147aba1" name="Changes" comment="TEST" />
+    <list default="true" id="792eef59-3c6f-4dfd-8e13-aa7d4147aba1" name="Changes" comment="directory">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../git1" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
@@ -121,7 +124,8 @@
       <workItem from="1728983195914" duration="28873000" />
       <workItem from="1729022940790" duration="2501000" />
       <workItem from="1729025978118" duration="300000" />
-      <workItem from="1729072489235" duration="766000" />
+      <workItem from="1729072489235" duration="1479000" />
+      <workItem from="1729074462722" duration="505000" />
     </task>
     <task id="LOCAL-00001" summary="Frontend not done">
       <created>1729019675445</created>
