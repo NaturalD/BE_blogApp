@@ -19,6 +19,7 @@ from rest_framework.response import Response
 from .serializers import CustomTokenObtainPairSerializer
 from rest_framework_simplejwt.views import TokenObtainPairView
 from django.contrib.auth.views import LoginView
+from .serializers import WriterSerializer
 
 class DashboardView(TemplateView):
     template_name = 'dashboard.html'
